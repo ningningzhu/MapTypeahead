@@ -7,9 +7,12 @@ This is a map typeahead search web app.
 run the following scripts to start the app:
 
 ```
+// install frontend dependencies and build 
 cd typeahead
 npm install
 npm run build
+
+// install backend dependencies and run web app
 cd ../server
 npm install
 npm start
